@@ -33,4 +33,6 @@ logging:
       springframework:
         security: DEBUG
 
+# application.yml
+debug: true
 
